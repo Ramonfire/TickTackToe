@@ -111,7 +111,7 @@ int main(int argc, char** argv) {
 		}
 		else if(choice==7 && square[7]=='7')
 		{
-			square[1]=mark;
+			square[7]=mark;
 		}
 		else if(choice==8 && square[8]=='8')
 		{
